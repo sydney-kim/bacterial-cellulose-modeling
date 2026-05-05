@@ -14,9 +14,8 @@ This script takes the results (parameter values) from the first file, applies th
 This workspace contains the set of experimental data used in the aformentioned thesis for fitting and analyzing the model performance. It is provided as an example, but the parameters should be fit to experimental data specific to the culture system in use for best results.
 
 ## Contributions
-This code was written by **Sydney Kim**, with support from the MIT Bioinstrumentation Lab.  
-The work was carried out under the supervision of **Professor Ian Hunter**, who provided mentorship, lab space, and equipment.
+This code was written by Sydney Kim. This thesis work was completed under the supervision of Professor Ian Hunter and funded the MIT Bioinstrumentation Lab.
 
 ---
 
-Please feel free to use, adapt, or extend this work. Contributions and feedback are always welcome!
+Please feel free to use, adapt, or extend this work. 
