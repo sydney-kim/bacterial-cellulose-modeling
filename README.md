@@ -1,6 +1,6 @@
 # Bacterial Cellulose Mathematical Modeling
 
-This repository contains the MATLAB scripts and workspaces used for mathematical modeling of bacterial cellulose synthesis. The modeling is based on the Monod Equation and mass-balance ODEs, and is described in detail Section 3 of the masters thesis "Media Recycling in Bacterial Cellulose Production" (Sydney Kim, Massachusetts Institute of Technology, May 2026). This work was done in MATLAB R2025b.
+This repository contains the MATLAB scripts and workspaces used for mathematical modeling of bacterial cellulose synthesis. The modeling is based on the Monod Equation and mass-balance ODEs, and is described in detail Chapter 3 of the masters thesis "Media Recycling in Bacterial Cellulose Production" (Sydney Kim, Massachusetts Institute of Technology, May 2026). This work was done in MATLAB R2025b.
 
 ## Content overview
 
